@@ -1,0 +1,7 @@
+{
+  "name": "CVS.ai",
+  "description": "An intelligent chat assistant powered by the Gemini API, featuring a sleek, responsive interface with chat history, markdown rendering, and a dynamic dark/light theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
